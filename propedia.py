@@ -2,6 +2,7 @@ import random
 
 number = input("Θα δοκιμάσουμε την προπαίδεια του; ")
 factors = list(range(10))
+
 random.shuffle(factors)
 
 for n in factors:
