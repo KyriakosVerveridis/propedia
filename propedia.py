@@ -1,6 +1,6 @@
 import random
 
-number = input("Θα δοκιμάσουμε την προπαίδεια του; ")
+number = input("Θα δοκιμάσουμε την προπαίδεια μου; ")
 factors = list(range(10))
 
 random.shuffle(factors)
